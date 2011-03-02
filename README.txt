@@ -1,0 +1,1 @@
+ASP.NET WebForms Model View Presenter (Passive View) + ViewModels Reference Architecture
